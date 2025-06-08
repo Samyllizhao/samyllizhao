@@ -4,4 +4,4 @@ My name is Samylli, I'm from Brazil, and I'm currently pursuing a Bachelor’s d
 
 💻 Beginner in software development
 
-* LinkedIn: [Samylli Zhao]((https://www.linkedin.com/in/samylli-zhao/)
+* LinkedIn: [Samylli Zhao](https://www.linkedin.com/in/samylli-zhao/)
