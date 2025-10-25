@@ -5,5 +5,3 @@
 📚 Cursando na Universidade Federal do Maranhão (UFMA)  
 
 💻 Beginner in software development
-
-* LinkedIn: [Samylli Zhao](https://www.linkedin.com/in/samylli-zhao/)
